@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "270874073673",
+    "firebase_url": "https://zeroqode.firebaseio.com",
+    "project_id": "zeroqode",
+    "storage_bucket": "zeroqode.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270874073673:android:501dad03f70fac94",
+        "android_client_info": {
+          "package_name": "com.brommko.android.zeroqode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270874073673-imht8m11nj0gf5qg4jb8sf9vffi207pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIAvIERx3o4JBo0mUQN8E7i6nJg97HcPs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
